@@ -1,59 +1,48 @@
-Skills Demonstrated
-Network Traffic Analysis
+<h1>Skills Demonstrated</h1>
+<h2> Network Traffic Analysis</h2>
 
-Skill: Proficient in using Wireshark to analyze PCAP files.
-Explanation: You utilized Wireshark to capture and examine network packets. This involved analyzing PCAP file properties, protocol hierarchy, endpoints, and communication conversations.
-Threat Modelling and Actor Profiling
+<h3>Skill:</h3> Proficient in using Wireshark to analyze PCAP files.
 
-Skill: Ability to model threats and profile potential threat actors.
-Explanation: You created threat models to identify possible attack vectors and profiled the attacker’s techniques. This included identifying attack methods such as path traversal, local file inclusion, SQL injection, and command injection.
-Statistical Analysis
+<b>Explanation:</b> I utilized Wireshark to capture and examine network packets. This involved analyzing PCAP file properties, protocol hierarchy, endpoints, and communication conversations.
+<h2>Threat Modelling and Actor Profiling</h2>
 
-Skill: Conducting statistical analysis of network traffic.
-Explanation: You analyzed statistical data from the PCAP file, including protocol hierarchy, endpoint communication, and I/O graphs. This involved interpreting data related to network traffic patterns and identifying anomalies.
-Attack Identification
+<h3>Skill: </h3>Ability to model threats and profile potential threat actors.
 
-Skill: Identifying and explaining various types of cyberattacks.
-Explanation: You identified several types of attacks from the data, including path traversal, local file inclusion, SQL injection, and command injection. You also explained the nature of these attacks and their potential impact.
-Technical Explanation of Attacks
+<b>Explanation:</b> I created threat models to identify possible attack vectors and profiled the attacker’s techniques. This included identifying attack methods such as path traversal, local file inclusion, SQL injection, and command injection.
 
-Skill: Providing detailed technical explanations of attack techniques.
-Explanation: You described how each attack type works and their potential vulnerabilities, citing relevant vulnerabilities and CVEs.
-Mitigation Strategies
+<h2>Statistical Analysis</h2>
 
-Skill: Developing and recommending strategies to mitigate identified attacks.
-Explanation: You suggested various mitigation strategies, including input validation, secure coding practices, and implementing defensive measures like firewalls and intrusion detection systems.
-Scripting and Automation
+<h3>Skill:</h3> Conducting statistical analysis of network traffic.
 
-Skill: Writing Bash scripts for attack mitigation.
-Explanation: You wrote Bash scripts to automate tasks such as isolating a server, blocking an attacker’s IP address, and reconnecting the server to the network. This demonstrates your ability to automate response actions in a cybersecurity context.
-Comprehensive Reporting
+<b>Explanation:</b> I analyzed statistical data from the PCAP file, including protocol hierarchy, endpoint communication, and I/O graphs. This involved interpreting data related to network traffic patterns and identifying anomalies.
 
-Skill: Creating structured and detailed reports.
-Explanation: You compiled a thorough report that includes an abstract, introduction, statistical analysis, activity narrative, attack identification, technical explanations, mitigation strategies, and appendices with scripts. This shows your ability to document and communicate findings effectively.
-Summary of Activities
-Analysis of PCAP Files:
+<h2>Attack Identification</h2>
 
-Examined network traffic data captured in PCAP files using Wireshark.
-Analyzed various aspects such as protocol statistics, endpoints, and conversations.
-Threat Modelling:
+<h3>Skill:</h3> Identifying and explaining various types of cyberattacks.
 
-Created models to visualize potential attack scenarios and identify threat vectors.
-Statistical Analysis:
+<b>Explanation:</b> I identified several types of attacks from the data, including path traversal, local file inclusion, SQL injection, and command injection. You also explained the nature of these attacks and their potential impact.
 
-Conducted statistical analysis to understand traffic patterns and identify anomalies.
-Attack Identification:
+<h2>Technical Explanation of Attacks</h2>
 
-Identified specific attack techniques used against the network.
-Explained the nature and impact of these attacks.
-Mitigation Strategies:
+<h3>Skill:</h3> Providing detailed technical explanations of attack techniques.
 
-Proposed strategies and best practices to mitigate identified threats.
-Provided specific recommendations for securing the network.
-Scripting:
+<b>Explanation:</b> I described how each attack type works and their potential vulnerabilities, citing relevant vulnerabilities and CVEs.
 
-Developed Bash scripts to automate mitigation tasks such as blocking malicious IP addresses.
-Reporting:
+<h2>Mitigation Strategies</h2>
 
-Compiled and organized findings into a comprehensive report with visual aids and technical explanations.
-This write-up reflects a well-rounded skill set in network security analysis, threat identification, technical explanation, and practical mitigation strategies.
+<h3>Skill:</h3> Developing and recommending strategies to mitigate identified attacks.
+
+<b>Explanation:</b> I suggested various mitigation strategies, including input validation, secure coding practices, and implementing defensive measures like firewalls and intrusion detection systems.
+
+<h2>Scripting and Automation</h2>
+
+<h3>Skill:</h3> Writing Bash scripts for attack mitigation.
+
+<b>Explanation:</b> I wrote Bash scripts to automate tasks such as isolating a server, blocking an attacker’s IP address, and reconnecting the server to the network. This demonstrates your ability to automate 
+response actions in a cybersecurity context.
+
+<h2>Comprehensive Reporting</h2>
+
+<h3>Skill:</h3> Creating structured and detailed reports.
+
+<b>Explanation:</b> I compiled a thorough report that includes an abstract, introduction, statistical analysis, activity narrative, attack identification, technical explanations, mitigation strategies, and appendices with scripts. This shows your ability to document and communicate findings effectively.
