@@ -20,7 +20,7 @@
 
 <h3>Skill:</h3> Identifying and explaining various types of cyberattacks.
 
-<b>Explanation:</b> I identified several types of attacks from the data, including path traversal, local file inclusion, SQL injection, and command injection. You also explained the nature of these attacks and their potential impact.
+<b>Explanation:</b> I identified several types of attacks from the data, including path traversal, local file inclusion, SQL injection, and command injection. I also explained the nature of these attacks and their potential impact.
 
 <h2>Technical Explanation of Attacks</h2>
 
@@ -38,11 +38,11 @@
 
 <h3>Skill:</h3> Writing Bash scripts for attack mitigation.
 
-<b>Explanation:</b> I wrote Bash scripts to automate tasks such as isolating a server, blocking an attacker’s IP address, and reconnecting the server to the network. This demonstrates your ability to automate 
+<b>Explanation:</b> I wrote Bash scripts to automate tasks such as isolating a server, blocking an attacker’s IP address, and reconnecting the server to the network. This demonstrates my ability to automate 
 response actions in a cybersecurity context.
 
 <h2>Comprehensive Reporting</h2>
 
 <h3>Skill:</h3> Creating structured and detailed reports.
 
-<b>Explanation:</b> I compiled a thorough report that includes an abstract, introduction, statistical analysis, activity narrative, attack identification, technical explanations, mitigation strategies, and appendices with scripts. This shows your ability to document and communicate findings effectively.
+<b>Explanation:</b> I compiled a thorough report that includes an abstract, introduction, statistical analysis, activity narrative, attack identification, technical explanations, mitigation strategies, and appendices with scripts. This shows my ability to document and communicate findings effectively.
